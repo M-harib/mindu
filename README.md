@@ -119,8 +119,10 @@ Expected output:
 Official docs: Next.js Deployment
 
 ### **Team**
+```
 Name	Role
 Harib	Backend / AI Integration
 Hala	Frontend / UI
 Miguel	Research & Tech
 Zach & Komal	Surveys & Analytics
+```
