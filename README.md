@@ -27,7 +27,7 @@
 ---
 
 ## **Project Structure**
-
+```
 MINDU/
 ├─ lib/
 │ ├─ firebase.ts # Firebase frontend configuration
@@ -42,7 +42,7 @@ MINDU/
 ├─ package.json
 ├─ next.config.js
 └─ .gitignore
-
+```
 
 
 
