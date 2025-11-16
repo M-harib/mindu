@@ -59,7 +59,7 @@ MINDU/
 
 ### **Install dependencies**
 
-"```bash"
+```bash
 npm install
 # or
 yarn install
