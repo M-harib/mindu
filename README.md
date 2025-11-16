@@ -83,6 +83,7 @@ GEMINI_API_KEY=<gemini-api-key> #Not done yet!
 
 
 ### **Run Development Server**
+```bash
 npm run dev
 # or
 yarn dev
@@ -91,6 +92,7 @@ pnpm dev
 # or
 bun dev
 Open http://localhost:3000 in your browser to view the app.
+```
 
 
 ### **Testing the Backend**
