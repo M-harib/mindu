@@ -99,13 +99,15 @@ Open http://localhost:3000 in your browser to view the app.
 note: uncomment test code in /ap/api/courses/route.ts
 Courses API (mock mode):
 
+```bash
 curl http://localhost:3000/api/courses
 Expected output:
-```
+
 [
   { "id": "c1", "name": "Calculus 101", "description": "Intro to Calculus" },
   { "id": "c2", "name": "Physics 101", "description": "Intro to Physics" }
 ]
+
 ```
 
 
