@@ -42,7 +42,8 @@ MINDU/
 ├─ package.json
 ├─ next.config.js
 └─ .gitignore
-etc...
+
+
 
 
 ## **Getting Started**
