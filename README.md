@@ -1,4 +1,4 @@
-# MINDU – Pre-Exam Mastery Platform
+  # MINDU – Pre-Exam Mastery Platform
 
 **MINDU** is an AI-powered platform designed to help students prepare efficiently for challenging courses, especially those with high failure or anxiety rates. It focuses on **pre-exam preparation**, combining AI-guided study, professor-approved training, and gamified accountability to improve focus, understanding, and confidence.
 
@@ -101,10 +101,12 @@ Courses API (mock mode):
 
 curl http://localhost:3000/api/courses
 Expected output:
+```
 [
   { "id": "c1", "name": "Calculus 101", "description": "Intro to Calculus" },
   { "id": "c2", "name": "Physics 101", "description": "Intro to Physics" }
 ]
+```
 
 
 ### **Deployment**
